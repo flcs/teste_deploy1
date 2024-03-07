@@ -1,0 +1,13 @@
+
+
+GET http://localhost:3000/
+
+########
+
+OPTIONS http://localhost:3000/
+
+#######
+
+HEAD http://localhost:3000/
+
+#######
