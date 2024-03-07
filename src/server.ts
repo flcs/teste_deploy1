@@ -11,6 +11,7 @@ router.get('/', (req, res) => {
 
 app.use(router)
 
+
 app.listen(3000, () =>{
     console.log('ouvindo 3000');
 })
